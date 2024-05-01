@@ -13,14 +13,16 @@ module.exports = {
       current: "currentColor",
       white: "#ffffff",
       black: "#000000",
-      darkseagreen: "#8fbc8f",
+      darkseagreen: "#8fbc1f",
       aliceblue: "#f0f8ff",
-      cadetblue: "#5f9ea0",
+      skyblue: "#87CEEB", 
+    
     },
     fontFamily: {
       sans: ["Poppins", "sans-serif"],
       serif: ["Merriweather", "serif"],
       cursive: ["Luckiest Guy", "cursive"],
+     
     },
     extend: {
       spacing: {
